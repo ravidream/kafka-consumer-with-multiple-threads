@@ -1,2 +1,2 @@
-# kafka-consumer-with-multiple-threads
-Kafka Consumer with multiple Threads
+# kafka-consumer-with-header
+Kafka Consumer with Header example
